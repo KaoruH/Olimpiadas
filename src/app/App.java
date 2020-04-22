@@ -41,4 +41,6 @@ public class App {
         System.out.println("La cantidad de Participantes es " + cantidadParticipantes);
 
     }
+
+    int lala = 0;
 }
